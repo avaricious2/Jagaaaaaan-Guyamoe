@@ -1,23 +1,23 @@
 {
-  "title": "<Jagaaaaaan>",
-  "description": "<Shintarou Jagasaki, who is a neighborhood police officer, lives with his girlfriend while working a job that is killing him slowly with annoyance. It looks like he will end up marrying soon and live a boring life with a nuclear family—a grim future for a guy with dreams! One such day, a mysterious monster appeared on the train and he suddenly can shoot with his right hand like Master Buppanatsu, the eggplant mascot of his city!>",
-  "artist": "<Nishida Kensuke>",
-  "author": "<Muneyuki Kaneshiro>",
-  "cover": "<https://i.imgur.com/IHROHDz.jpg>",
+  "title": "Jagaaaaaan",
+  "description": "Shintarou Jagasaki, who is a neighborhood police officer, lives with his girlfriend while working a job that is killing him slowly with annoyance. It looks like he will end up marrying soon and live a boring life with a nuclear family—a grim future for a guy with dreams! One such day, a mysterious monster appeared on the train and he suddenly can shoot with his right hand like Master Buppanatsu, the eggplant mascot of his city!",
+  "artist": "Nishida Kensuke",
+  "author": "Muneyuki Kaneshiro",
+  "cover": "https://i.imgur.com/IHROHDz.jpg",
   "chapters": {
-    "<130>": {
-      "title": "<Showdown>",
-      "volume": "<12>",
+    "130": {
+      "title": "Showdown",
+      "volume": "12",
       "groups": {
-        "<JagaaaaaanScans>": "/proxy/api/imgur/chapter/<IKm41IQ>/"
+        "JagaaaaaanScans": "/proxy/api/imgur/chapter/IKm41IQ/"
       },
       "last_updated": "1616368746"
     },
-       "<c129>": {
-      "title": "<Jagaaaaaan>",
-      "volume": "<12>",
+       "129": {
+      "title": "Jagaaaaaan",
+      "volume": "12",
       "groups": {
-        "<JagaaaaaanScans>": "/proxy/api/imgur/chapter/<taUIfNx>/"
+        "JagaaaaaanScans": "/proxy/api/imgur/chapter/taUIfNx/"
       },
       "last_updated": "1616368746"
     }
