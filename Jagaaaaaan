@@ -29,20 +29,21 @@
       },
       "last_updated": "1612877970"
     },
-    "132": {
-
-      "title": "Rendezvous",
-
+     "133": {
+      "title": "Junk Story",
       "volume": "12",
-
       "groups": {
-
-        "JagaaaaaanScans": "/proxy/api/imgur/chapter/F1BrfLg/"
-
+        "JagaaaaaanScans": "/proxy/api/imgur/chapter/pewZCIZ/"
       },
-
+      "last_updated": "1620633851"
+    },
+    "132": {
+      "title": "Rendezvous",
+      "volume": "12",
+      "groups": {
+        "JagaaaaaanScans": "/proxy/api/imgur/chapter/F1BrfLg/"
+      },
       "last_updated": "1619300254"
-
     },
     "131": {
       "title": "Lucky Punch",
